@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1flDRqBhKLMO60uIzV6FOiuBuiZaDfFfLpFBLWHrq3FyNw7BzuhfbK3+gpXfrYVXfFe54QFeQAQZIePsElUuTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\MVC\\designtemp\\desingPageMVC\\desingPageMVC\\desingPageMVC.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

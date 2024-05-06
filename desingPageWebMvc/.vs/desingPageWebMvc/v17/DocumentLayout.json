@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MVC\\designtemp\\desingPageWebMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896B6844-DF4F-42F0-B5FC-535B77400D7C}|desingPageWebMvc\\desingPageWebMvc.fsproj|c:\\users\\user\\desktop\\mvc\\designtemp\\desingpagewebmvc\\desingpagewebmvc\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{896B6844-DF4F-42F0-B5FC-535B77400D7C}|desingPageWebMvc\\desingPageWebMvc.fsproj|solutionrelative:desingpagewebmvc\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MVC\\designtemp\\desingPageWebMvc\\desingPageWebMvc\\Program.fs",
+              "RelativeDocumentMoniker": "desingPageWebMvc\\Program.fs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MVC\\designtemp\\desingPageWebMvc\\desingPageWebMvc\\Program.fs*",
+              "RelativeToolTip": "desingPageWebMvc\\Program.fs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T19:59:30.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
